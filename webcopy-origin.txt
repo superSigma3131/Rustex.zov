@@ -1,0 +1,260 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\rustex.org\ajax\libs\font-awesome\5.15.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap&subset=cyrillic
+File Name: C:\Downloaded Web Sites\rustex.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Sanchez:400,400i&display=swap
+File Name: C:\Downloaded Web Sites\rustex.org\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmQiA8.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmQiA8.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmQiA8.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiA8.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmQiA8.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmQiA8.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sanchez/v15/Ycm0sZJORluHnXbIfmxh_zQF.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\sanchez\v15\Ycm0sZJORluHnXbIfmxh_zQF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sanchez/v15/Ycm2sZJORluHnXbIfmlR-A.ttf
+File Name: C:\Downloaded Web Sites\rustex.org\s\sanchez\v15\Ycm2sZJORluHnXbIfmlR-A.ttf
+Content Type: font/ttf
+
+Uri: https://rustex.org/
+File Name: C:\Downloaded Web Sites\rustex.org\index.htm
+Content Type: text/html
+
+Uri: https://rustex.org/conf
+File Name: C:\Downloaded Web Sites\rustex.org\conf.html
+Content Type: text/html
+
+Uri: https://rustex.org/css/animate.css
+File Name: C:\Downloaded Web Sites\rustex.org\css\animate.css
+Content Type: text/css
+
+Uri: https://rustex.org/css/pixel.css
+File Name: C:\Downloaded Web Sites\rustex.org\css\pixel.css
+Content Type: text/css
+
+Uri: https://rustex.org/css/style.css
+File Name: C:\Downloaded Web Sites\rustex.org\css\style.css
+Content Type: text/css
+
+Uri: https://rustex.org/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\rustex.org\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://rustex.org/js/jarallax.min.js
+File Name: C:\Downloaded Web Sites\rustex.org\js\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://rustex.org/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\rustex.org\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://rustex.org/js/pixel.min.js
+File Name: C:\Downloaded Web Sites\rustex.org\js\pixel.min.js
+Content Type: application/javascript
+
+Uri: https://rustex.org/js/popper.min.js
+File Name: C:\Downloaded Web Sites\rustex.org\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://rustex.org/js/smooth-scroll.min.js
+File Name: C:\Downloaded Web Sites\rustex.org\js\smooth-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://rustex.org/media/coins1_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\coins1_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/coins2_new.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\coins2_new.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/coins3_new.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\coins3_new.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/coins4_new.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\coins4_new.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/coins5_new.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\coins5_new.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/coins6_new.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\coins6_new.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/elite_kit.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\elite_kit.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/elite_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\elite_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/icon.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\icon.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/logo.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\logo.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/outpost.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\outpost.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/payru2.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\payru2.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/prem_kit.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\prem_kit.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/prem_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\prem_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/pro_kit.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\pro_kit.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/pro_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\pro_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/skins.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\skins.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/sponsor_kit.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\sponsor_kit.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/sponsor_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\sponsor_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/unban_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\unban_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/vip_kit.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\vip_kit.png
+Content Type: image/png
+
+Uri: https://rustex.org/media/vip_new1.png
+File Name: C:\Downloaded Web Sites\rustex.org\media\vip_new1.png
+Content Type: image/png
+
+Uri: https://rustex.org/oferta
+File Name: C:\Downloaded Web Sites\rustex.org\oferta.html
+Content Type: text/html
+
+Uri: https://rustex.org/rules
+File Name: C:\Downloaded Web Sites\rustex.org\rules.html
+Content Type: text/html
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\rustex.org\translate_a\element.js
+Content Type: text/javascript
+
